@@ -1,3 +1,95 @@
-API_HOST_URL: 'http://localhost:8000'
-ENVIRONMENT_DISPLAY_NAME: 'Localhost'
-FEEDBACK_EMAIL_ADDRESS: 'support@example.com'
+API_HOST_URL: 'https://nbjsports.co.in/'
+
+API_URL_VERSION: 
+
+  BLOCKS: 'v1'
+
+  REGISTRATION: 'v1'
+
+ENVIRONMENT_DISPLAY_NAME: 'SuccessLabs'
+
+PLATFORM_NAME: 'SuccessLabs'
+
+PHONETIC_PLATFORM_NAME: 'SuccessLab'
+
+PLATFORM_DESTINATION_NAME: 'https://nbjsports.co.in'
+
+FEEDBACK_EMAIL_ADDRESS: 'support@successlab.ai'
+
+#FAQ_URL: 'https://support.coursery.co/hc/en-us/sections/4408224345879'
+
+#DELETE_ACCOUNT_URL: 'https://account.coursery.co/#delete-account'
+
+ECOMMERCE_URL: 'https://ecommerce.nbjsports.co.in'
+
+DISCOVERY:
+
+  TYPE: native
+
+  NATIVE:
+
+    SEARCH_ENABLED: true
+
+    SUBJECT_FILTER_ENABLED: true
+
+    SUBJECT_DISCOVERY_ENABLED: true
+
+PROGRAM:
+
+  ENABLED: false
+
+YOUTUBE_PLAYER:
+
+  ENABLED: true
+
+  API_KEY: ''
+
+#AGREEMENT_URLS:
+
+#  PRIVACY_POLICY_URL: 'https://www.edx.org/webview/edx-privacy-policy'
+
+#  TOS_URL: 'https://www.edx.org/webview/edx-terms-service'
+
+#  EULA_URL: 'https://www.edx.org/webview/eula'
+
+#  SUPPORTED_LANGUAGES:
+
+#  - 'es'
+
+ANNOUNCEMENTS_ENABLED: true
+
+BADGES_ENABLED: false
+
+CERTIFICATES_ENABLED: true
+
+COURSE_DATES_ENABLED: false
+
+COURSE_SHARING_ENABLED: false
+
+COURSE_VIDEOS_ENABLED: true
+
+DISCUSSIONS_ENABLED: true
+
+DISCUSSIONS_ENABLE_PROFILE_PICTURE_PARAM: true
+
+PUSH_NOTIFICATIONS: true
+
+NEW_LOGISTRATION_ENABLED: true
+
+REGISTRATION_ENABLED: true
+
+TAB_LAYOUTS_ENABLED: true
+
+USER_PROFILES_ENABLED: true
+
+VIDEO_TRANSCRIPT_ENABLED: true
+
+WHATS_NEW_ENABLED: true
+
+IAP_ENABLED: false
+
+
+
+APP_REVIEWS_ENABLED: true
+
+DOWNLOAD_TO_SD_CARD_ENABLED: false

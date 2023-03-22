@@ -6,15 +6,15 @@ API_URL_VERSION:
 
   REGISTRATION: 'v1'
 
-ENVIRONMENT_DISPLAY_NAME: 'SuccessLabs'
+ENVIRONMENT_DISPLAY_NAME: 'NJB'
 
-PLATFORM_NAME: 'SuccessLabs'
+PLATFORM_NAME: 'NJB'
 
-PHONETIC_PLATFORM_NAME: 'SuccessLab'
+PHONETIC_PLATFORM_NAME: 'NJB'
 
 PLATFORM_DESTINATION_NAME: 'https://nbjsports.co.in'
 
-FEEDBACK_EMAIL_ADDRESS: 'support@successlab.ai'
+FEEDBACK_EMAIL_ADDRESS: 'support@NJB'
 
 #FAQ_URL: 'https://support.coursery.co/hc/en-us/sections/4408224345879'
 
